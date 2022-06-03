@@ -2,11 +2,13 @@
 import { css } from '@emotion/react';import { Container } from '../GlobalComponents/Container';
 import { HeroImg } from './HeroImg';
 import { HeroInfo } from './HeroInfo';
+import { HeroSocials } from './HeroSocials';
 import { Nav } from "./Nav"
 
 export const Hero = ()=>{
     return(
         <section css={styles} className="hero" id='home'>
+            <HeroSocials/>
               <Nav/> 
                <Container>
                         <HeroInfo/>
