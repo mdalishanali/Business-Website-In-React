@@ -14,7 +14,7 @@ export const Services = () => (
       cardNumber="0.1"/>
 
 <ServiceCard
-        cardIcon="fa fa-globe fa-5x"
+        cardIcon="fa fa-internet-explorer fa-5x"
         cardTitle="Reseller Hosting"
         cardNumber=".02"
       />

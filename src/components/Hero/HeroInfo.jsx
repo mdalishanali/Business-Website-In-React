@@ -8,7 +8,7 @@ export const HeroInfo = () => (
         <h2>Hosting digital technology web solution!</h2>
     <p>
       Automated Control Panel with Up to 50% Off Hosting <br /> Starting from
-      ₹99 /Month
+      $2.50/Month
     </p>
     <Button btnText="getStarted"/>
     </div>
