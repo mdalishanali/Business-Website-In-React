@@ -9,6 +9,7 @@ import { Pricing } from './components/Pricing/Pricing';
 import { Testimonials } from './components/Testimonials/Testimonials';
 import { Support } from './Support/Support';
 import { Blog } from './components/Blog/Blog';
+import { Footer } from './components/Footer/Footer';
 function App() {
   return (
     <div className="App">
@@ -21,6 +22,7 @@ function App() {
       <Testimonials/>
       <Support/>
       <Blog/>
+      <Footer/>
     </div>
   );
 }
