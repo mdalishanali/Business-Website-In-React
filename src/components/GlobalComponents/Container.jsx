@@ -13,6 +13,7 @@ const styles = css`
   margin: 0 auto;
   @media (max-width: 1288px) {
     max-width: 90%;
+    
   }
 `;
 
