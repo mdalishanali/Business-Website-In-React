@@ -28,7 +28,7 @@ const styles = css`
     background: #1a1a50;
     min-height: 100vh;
     width: 100%;
-    max-width: 340px;
+    max-width: 280px;
     transition: left 800ms ease-in-out;
     &.opened {
       left: 0;
